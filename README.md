@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @udoboy
+- 👋 Hi, I’m @udoboy (onuh kyrian udochukwu)
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java, python
 - 💞️ I’m looking to collaborate on any project atall
