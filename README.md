@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @udoboy (onuh kyrian udochukwu)
 - 👀 I’m am a mobile app developer
 - 🌱I currently use java, flutter to build mobile apps
-- 💞️ I’m looking to collaborate on any project atall
+- 💞️ I’m looking to collaborate on any projects
 - 📫 you can reach me on 08143015512
 
 <!---
